@@ -5,7 +5,7 @@ This Python program send a single message to any number of people you want by us
 
 This Python script uses **Selenium** and **webdriver-manager**.
 
->**Selenium**: It is and open-source tool that automates web browsers. It provides a single interface that lets you write test scripts in programming languages like Ruby, Java, NodeJS, PHP, Perl, Python, and C#, among others. I personally prefer Python as it’s very easy to write code in python. A browser-driver then executes these scripts on a browser-instance on your device. To install this module run this command into your terminal.
+>**Selenium**: It is an open-source tool that automates web browsers. It provides a single interface that lets you write test scripts in programming languages like Ruby, Java, NodeJS, PHP, Perl, Python, and C#, among others. I personally prefer Python as it’s very easy to write code in python. A browser-driver then executes these scripts on a browser-instance on your device. To install this module run this command into your terminal.
 ```
 pip install selenium
 ```
